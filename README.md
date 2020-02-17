@@ -1,4 +1,20 @@
 
+# Marketing Cloud custom activity template
+
+
+This is a template for custom activities into Marketing Cloud
+
+## Getting Started
+
+Fork this repo and start to build a custom activity
+
+
+## Running the application
+
+node server/index.js
+
+
+## Normally structure for backend request body
 
 
 var inArguments = [
